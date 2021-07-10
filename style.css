@@ -1,12 +1,12 @@
 body {
     line-height: 1.3em;
     background-image: linear-gradient(to right,rgb(196,195,208,1), rgb(196,195,208,0.75),
-    rgb(196,195,208,0));
+    rgb(196,195,208,0.2));
 }
 
 .dark-mode {
  background-image: linear-gradient(to right,rgb(222,184,135,1), rgb(222,184,135,0.75),
-    rgb(222,184,135,0));
+    rgb(222,184,135,0.2));
 }
 
 p {
